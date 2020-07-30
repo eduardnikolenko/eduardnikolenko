@@ -31,3 +31,4 @@
 
 - [E-mail](mailto:mail@eduardnikolenko.com)
 - [Telegram](https://t.me/eduardnikolenko)
+- [Twitter](https://twitter.com/eduardnikolenko)
