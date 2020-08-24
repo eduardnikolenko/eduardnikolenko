@@ -38,6 +38,5 @@ I have been working in technology for over 16 years and have a proven track reco
 
 📫 How to reach me:
 
-- [E-mail](mailto:mail@eduardnikolenko.com)
+- [E-mail](mailto:mail+github@eduardnikolenko.com)
 - [Telegram](https://t.me/eduardnikolenko)
-- [Twitter](https://twitter.com/eduardnikolenko)
