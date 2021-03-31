@@ -39,3 +39,5 @@ I have been working in technology for over 16 years and have a proven track reco
 📫 How to reach me:
 
 - [E-mail](mailto:work+github@eduardnikolenko.com)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=eduardnikolenko&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/eduardnikolenko)
