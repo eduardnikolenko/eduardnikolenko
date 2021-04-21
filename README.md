@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a software developer.
-Currently a lead software engineer at MTS IT and life-long enthusiast of technology and software engineering.
+Currently a lead software engineer at MTS Digital and life-long enthusiast of technology and software engineering.
 
 I have been working in technology for over 16 years and have a proven track record in using latest technologies to develop and deliver web, mobile and cloud solutions.
 
